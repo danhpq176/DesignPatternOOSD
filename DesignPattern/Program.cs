@@ -31,11 +31,20 @@ namespace DesignPattern
             //studentAccount.addSubject("Mathematics");
 
             //CHAIN OF RESPONSIBILITY
-            Logger logger = AppLogger.getLogger();
+            //Logger logger = AppLogger.getLogger();
 
-            logger.log(LogLevel.PENDING, "Pending message");
-            logger.log(LogLevel.SUCCESS, "Success message");
-            logger.log(LogLevel.ERROR, "Error message");
+            //logger.log(LogLevel.PENDING, "Pending message");
+            //logger.log(LogLevel.SUCCESS, "Success message");
+            //logger.log(LogLevel.ERROR, "Error message");
+
+            //VISITOR
+            UserVisitor student = new Student();
+            UserVisitor teacher = new Teacher();
+            UserVisitor admin = new Admin();
+            Visitor v = new VisitorImpl();
+            student.search(v);
+            teacher.search(v);
+            admin.search(v);
         }
        
     }

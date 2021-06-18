@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OOSoft_design\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {}
+    "D:\\OOSoft_design\\DP\\DesignPatternOOSD\\DesignPattern\\DesignPattern.csproj": {}
   },
   "projects": {
-    "D:\\OOSoft_design\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {
+    "D:\\OOSoft_design\\DP\\DesignPatternOOSD\\DesignPattern\\DesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OOSoft_design\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+        "projectUniqueName": "D:\\OOSoft_design\\DP\\DesignPatternOOSD\\DesignPattern\\DesignPattern.csproj",
         "projectName": "DesignPattern",
-        "projectPath": "D:\\OOSoft_design\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+        "projectPath": "D:\\OOSoft_design\\DP\\DesignPatternOOSD\\DesignPattern\\DesignPattern.csproj",
         "packagesPath": "C:\\Users\\QUANG DANH\\.nuget\\packages\\",
-        "outputPath": "D:\\OOSoft_design\\DesignPattern\\DesignPattern\\obj\\",
+        "outputPath": "D:\\OOSoft_design\\DP\\DesignPatternOOSD\\DesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUANG DANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.115\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
         }
       }
     }

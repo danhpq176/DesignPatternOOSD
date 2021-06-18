@@ -9,3 +9,14 @@ D:\OOSoft_design\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPatte
 D:\OOSoft_design\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfo.cs
 D:\OOSoft_design\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
 D:\OOSoft_design\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.exe
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.deps.json
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.json
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.dev.json
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.dll
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.pdb
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csprojAssemblyReference.cache
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfoInputs.cache
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfo.cs
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
+D:\OOSoft_design\DP\DesignPatternOOSD\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
